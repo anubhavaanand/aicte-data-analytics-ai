@@ -1,0 +1,38 @@
+# =============================================
+# Python
+# =============================================
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# =============================================
+# IDE / Editor
+# =============================================
+.qoder/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =============================================
+# OS generated
+# =============================================
+.DS_Store
+Thumbs.db
+
+# =============================================
+# Project: Reference / Context files (not project output)
+# These are downloaded internship materials (PDFs, PPTXs, DOCXs)
+# used for reference only — not part of the submission
+# =============================================
+context\ files\ /
+context\ files/
+
+# =============================================
+# Dataset generation script (helper, not deliverable)
+# =============================================
+data/generate_dataset.py

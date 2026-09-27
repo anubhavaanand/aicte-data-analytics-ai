@@ -1,0 +1,501 @@
+Invoice_ID,Branch,City,Customer_Type,Gender,Product,Category,Unit_Price,Quantity,Total,Date,Time,Payment,Rating
+INV-0001,B,Bangalore,Normal,Male,Surf Excel,Household,180,9,1620,2026-01-10,20:29,Cash,3.7
+INV-0002,B,Bangalore,Normal,Female,Red Label Tea,Beverages,120,2,240,2026-01-28,13:19,Net Banking,5.0
+INV-0003,A,Delhi,Normal,Male,Colin,Household,80,5,400,2026-06-02,13:14,UPI,4.9
+INV-0004,B,Bangalore,Member,Male,Amul Cheese,Dairy,150,10,1500,2026-04-22,10:46,Cash,4.9
+INV-0005,B,Bangalore,Normal,Female,Red Label Tea,Beverages,120,2,240,2026-03-30,12:20,UPI,3.1
+INV-0006,A,Delhi,Normal,Male,Haldiram Namkeen,Snacks,60,8,480,2026-07-06,10:47,UPI,2.7
+INV-0007,A,Delhi,Normal,Female,Red Label Tea,Beverages,120,8,960,2026-07-21,17:48,Card,2.5
+INV-0008,C,Mumbai,Member,Male,Sunsilk Shampoo,Personal Care,150,9,1350,2026-03-22,20:11,Cash,5.0
+INV-0009,C,Mumbai,Member,Female,Sunsilk Shampoo,Personal Care,150,6,900,2026-04-22,12:13,UPI,4.4
+INV-0010,B,Bangalore,Normal,Male,Fair & Lovely,Personal Care,100,1,100,2026-06-05,20:30,Card,4.9
+INV-0011,A,Delhi,Member,Male,Cookies,Bakery,80,8,640,2026-05-11,13:46,Net Banking,2.3
+INV-0012,C,Mumbai,Normal,Male,Britannia Good Day,Snacks,30,10,300,2026-01-30,18:48,Net Banking,5.0
+INV-0013,A,Delhi,Normal,Male,Gillette Razor,Personal Care,200,3,600,2026-04-09,17:38,UPI,5.0
+INV-0014,C,Mumbai,Member,Male,Odonil,Household,50,6,300,2026-08-19,13:06,Cash,3.0
+INV-0015,A,Delhi,Member,Male,Bournvita,Beverages,200,9,1800,2026-05-28,12:18,Net Banking,2.7
+INV-0016,B,Bangalore,Normal,Female,Haldiram Namkeen,Snacks,60,5,300,2026-02-18,12:23,UPI,2.8
+INV-0017,B,Bangalore,Normal,Female,Pepsodent,Personal Care,50,2,100,2026-03-07,11:19,Card,3.4
+INV-0018,C,Mumbai,Member,Male,Mother Dairy Milk,Dairy,30,10,300,2026-01-12,09:45,Cash,4.1
+INV-0019,B,Bangalore,Normal,Female,Parle-G,Snacks,20,2,40,2026-07-01,17:08,Cash,3.8
+INV-0020,B,Bangalore,Normal,Male,Fair & Lovely,Personal Care,100,4,400,2026-04-22,13:02,Card,3.4
+INV-0021,B,Bangalore,Normal,Female,Mother Dairy Milk,Dairy,30,9,270,2026-01-01,09:35,Net Banking,4.4
+INV-0022,B,Bangalore,Normal,Female,Odonil,Household,50,1,50,2026-05-14,13:44,Card,2.7
+INV-0023,B,Bangalore,Normal,Male,Kurkure,Snacks,20,1,20,2026-08-25,11:40,Card,3.4
+INV-0024,B,Bangalore,Normal,Female,Lays,Snacks,20,1,20,2026-07-26,21:31,Net Banking,3.8
+INV-0025,A,Delhi,Normal,Male,Red Label Tea,Beverages,120,4,480,2026-05-18,10:55,UPI,4.2
+INV-0026,B,Bangalore,Member,Female,Kurkure,Snacks,20,1,20,2026-06-25,09:36,Net Banking,5.0
+INV-0027,A,Delhi,Member,Female,Mother Dairy Milk,Dairy,30,8,240,2026-07-04,13:30,Cash,3.0
+INV-0028,B,Bangalore,Member,Male,Odonil,Household,50,6,300,2026-08-29,16:28,Cash,4.4
+INV-0029,A,Delhi,Normal,Male,Thumbs Up,Beverages,50,7,350,2026-07-09,14:11,Cash,4.6
+INV-0030,C,Mumbai,Member,Male,Mother Dairy Milk,Dairy,30,3,90,2026-07-08,09:16,Cash,2.2
+INV-0031,C,Mumbai,Normal,Male,Amul Cheese,Dairy,150,3,450,2026-06-21,16:07,Cash,4.4
+INV-0032,B,Bangalore,Normal,Male,Red Label Tea,Beverages,120,1,120,2026-02-20,10:25,Cash,2.8
+INV-0033,B,Bangalore,Member,Female,Fruit Cake,Bakery,100,9,900,2026-04-04,16:04,Cash,2.5
+INV-0034,A,Delhi,Normal,Male,Bournvita,Beverages,200,10,2000,2026-04-21,18:40,UPI,5.0
+INV-0035,B,Bangalore,Normal,Female,Colin,Household,80,4,320,2026-01-18,19:03,Card,5.0
+INV-0036,C,Mumbai,Normal,Female,Frooti,Beverages,40,6,240,2026-08-31,11:09,UPI,5.0
+INV-0037,B,Bangalore,Normal,Male,Red Label Tea,Beverages,120,4,480,2026-06-20,21:36,Net Banking,3.3
+INV-0038,A,Delhi,Member,Female,Amul Butter,Dairy,50,7,350,2026-08-24,13:05,UPI,2.5
+INV-0039,A,Delhi,Member,Female,Pepsodent,Personal Care,50,6,300,2026-03-26,12:07,Cash,4.7
+INV-0040,B,Bangalore,Member,Female,Lifebuoy Soap,Personal Care,30,5,150,2026-06-09,17:48,Cash,3.8
+INV-0041,B,Bangalore,Normal,Female,Frooti,Beverages,40,2,80,2026-03-22,15:38,Card,2.8
+INV-0042,C,Mumbai,Normal,Female,Red Label Tea,Beverages,120,10,1200,2026-06-19,18:50,Cash,4.1
+INV-0043,C,Mumbai,Normal,Female,Pepsodent,Personal Care,50,6,300,2026-08-06,18:14,Cash,2.3
+INV-0044,B,Bangalore,Normal,Male,Fair & Lovely,Personal Care,100,2,200,2026-02-01,21:33,Cash,5.0
+INV-0045,C,Mumbai,Normal,Female,Odonil,Household,50,9,450,2026-07-04,15:28,Net Banking,3.3
+INV-0046,A,Delhi,Normal,Male,Britannia Bread,Bakery,40,1,40,2026-08-19,16:19,Cash,4.8
+INV-0047,B,Bangalore,Member,Male,Amul Cheese,Dairy,150,8,1200,2026-03-18,18:27,Cash,3.6
+INV-0048,C,Mumbai,Member,Male,Amul Butter,Dairy,50,4,200,2026-05-10,13:36,Card,4.3
+INV-0049,A,Delhi,Normal,Female,Odonil,Household,50,9,450,2026-03-21,18:03,Cash,4.5
+INV-0050,B,Bangalore,Member,Female,Vim Bar,Household,20,1,20,2026-06-20,18:47,Cash,2.8
+INV-0051,B,Bangalore,Member,Female,Pepsodent,Personal Care,50,7,350,2026-04-15,10:48,UPI,5.0
+INV-0052,B,Bangalore,Normal,Male,Cookies,Bakery,80,2,160,2026-03-25,12:40,UPI,5.0
+INV-0053,A,Delhi,Normal,Male,Lays,Snacks,20,8,160,2026-04-14,12:16,Net Banking,5.0
+INV-0054,B,Bangalore,Normal,Male,Lifebuoy Soap,Personal Care,30,5,150,2026-06-28,19:05,Card,5.0
+INV-0055,B,Bangalore,Member,Male,Surf Excel,Household,180,5,900,2026-03-17,11:15,UPI,4.5
+INV-0056,B,Bangalore,Member,Male,Parle-G,Snacks,20,6,120,2026-05-22,11:35,Cash,5.0
+INV-0057,C,Mumbai,Member,Male,Kurkure,Snacks,20,2,40,2026-02-02,10:10,Card,2.5
+INV-0058,C,Mumbai,Member,Female,Kurkure,Snacks,20,9,180,2026-02-19,09:26,Cash,3.0
+INV-0059,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,7,350,2026-04-18,16:44,UPI,2.5
+INV-0060,B,Bangalore,Member,Male,Parle-G,Snacks,20,1,20,2026-06-20,18:30,Card,3.4
+INV-0061,B,Bangalore,Member,Female,Kurkure,Snacks,20,6,120,2026-08-29,13:02,Cash,3.9
+INV-0062,C,Mumbai,Member,Male,Kurkure,Snacks,20,4,80,2026-04-08,12:18,Card,3.3
+INV-0063,B,Bangalore,Member,Female,Odonil,Household,50,5,250,2026-06-23,20:18,UPI,5.0
+INV-0064,B,Bangalore,Normal,Female,Amul Cheese,Dairy,150,10,1500,2026-07-11,20:55,Cash,3.4
+INV-0065,C,Mumbai,Member,Female,Fruit Cake,Bakery,100,5,500,2026-08-20,16:04,UPI,3.3
+INV-0066,B,Bangalore,Normal,Male,Vim Bar,Household,20,10,200,2026-02-14,19:14,UPI,4.4
+INV-0067,B,Bangalore,Normal,Female,Curd,Dairy,40,4,160,2026-06-07,13:50,Card,2.8
+INV-0068,B,Bangalore,Member,Female,Sunsilk Shampoo,Personal Care,150,8,1200,2026-05-26,21:40,Cash,5.0
+INV-0069,C,Mumbai,Member,Male,Paneer,Dairy,80,6,480,2026-03-19,18:42,Card,2.4
+INV-0070,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,10,500,2026-04-14,21:59,Net Banking,5.0
+INV-0071,C,Mumbai,Normal,Female,Tata Tea,Beverages,150,8,1200,2026-05-21,12:27,UPI,5.0
+INV-0072,C,Mumbai,Normal,Female,Mother Dairy Milk,Dairy,30,4,120,2026-08-02,10:34,Net Banking,2.9
+INV-0073,A,Delhi,Member,Male,Britannia Bread,Bakery,40,9,360,2026-01-01,12:41,Card,2.3
+INV-0074,B,Bangalore,Normal,Female,Mother Dairy Milk,Dairy,30,4,120,2026-03-19,11:58,Card,5.0
+INV-0075,C,Mumbai,Normal,Female,Britannia Bread,Bakery,40,3,120,2026-03-15,13:52,Net Banking,5.0
+INV-0076,A,Delhi,Member,Female,Paneer,Dairy,80,1,80,2026-02-23,11:04,Net Banking,4.9
+INV-0077,A,Delhi,Member,Male,Amul Butter,Dairy,50,7,350,2026-04-21,09:10,Cash,5.0
+INV-0078,C,Mumbai,Member,Female,Harpic,Household,90,1,90,2026-07-21,21:19,Card,2.3
+INV-0079,C,Mumbai,Normal,Male,Gillette Razor,Personal Care,200,4,800,2026-05-29,18:47,Cash,3.7
+INV-0080,C,Mumbai,Normal,Female,Fair & Lovely,Personal Care,100,9,900,2026-06-05,18:58,Cash,2.5
+INV-0081,C,Mumbai,Normal,Female,Britannia Good Day,Snacks,30,6,180,2026-06-17,13:28,UPI,5.0
+INV-0082,C,Mumbai,Member,Female,Sunsilk Shampoo,Personal Care,150,1,150,2026-03-24,10:29,UPI,4.9
+INV-0083,B,Bangalore,Normal,Female,Surf Excel,Household,180,6,1080,2026-04-30,20:19,Net Banking,3.6
+INV-0084,B,Bangalore,Normal,Male,Curd,Dairy,40,1,40,2026-04-24,20:25,Cash,2.2
+INV-0085,B,Bangalore,Member,Female,Parle-G,Snacks,20,7,140,2026-04-24,13:32,Net Banking,3.3
+INV-0086,C,Mumbai,Member,Male,Mother Dairy Milk,Dairy,30,5,150,2026-06-22,17:31,Net Banking,3.3
+INV-0087,C,Mumbai,Normal,Female,Britannia Good Day,Snacks,30,2,60,2026-02-24,16:05,Card,5.0
+INV-0088,A,Delhi,Normal,Female,Colin,Household,80,4,320,2026-05-11,18:02,UPI,4.6
+INV-0089,B,Bangalore,Normal,Male,Sunsilk Shampoo,Personal Care,150,9,1350,2026-05-02,15:47,Net Banking,5.0
+INV-0090,B,Bangalore,Normal,Female,Cookies,Bakery,80,4,320,2026-07-23,14:38,UPI,3.9
+INV-0091,C,Mumbai,Normal,Male,Odonil,Household,50,7,350,2026-08-19,13:01,UPI,2.7
+INV-0092,B,Bangalore,Normal,Male,Britannia Good Day,Snacks,30,8,240,2026-07-23,10:14,Cash,5.0
+INV-0093,B,Bangalore,Normal,Female,Kurkure,Snacks,20,1,20,2026-07-08,19:53,Card,5.0
+INV-0094,C,Mumbai,Normal,Male,Odonil,Household,50,3,150,2026-02-13,18:37,Cash,4.4
+INV-0095,A,Delhi,Normal,Male,Amul Cheese,Dairy,150,7,1050,2026-06-18,09:48,Cash,5.0
+INV-0096,A,Delhi,Normal,Female,Pav,Bakery,30,2,60,2026-01-22,19:52,UPI,4.1
+INV-0097,C,Mumbai,Member,Female,Parle-G,Snacks,20,1,20,2026-03-14,13:36,UPI,4.3
+INV-0098,A,Delhi,Member,Female,Cookies,Bakery,80,4,320,2026-05-12,09:48,Net Banking,4.2
+INV-0099,C,Mumbai,Member,Male,Parle-G,Snacks,20,9,180,2026-06-19,21:11,Net Banking,2.1
+INV-0100,B,Bangalore,Member,Male,Odonil,Household,50,7,350,2026-06-12,16:33,Cash,2.5
+INV-0101,C,Mumbai,Normal,Female,Tata Tea,Beverages,150,6,900,2026-06-08,19:28,Cash,2.2
+INV-0102,A,Delhi,Normal,Female,Vim Bar,Household,20,8,160,2026-03-27,13:11,Card,4.7
+INV-0103,C,Mumbai,Member,Male,Fruit Cake,Bakery,100,2,200,2026-01-24,18:27,Cash,3.6
+INV-0104,A,Delhi,Normal,Female,Haldiram Namkeen,Snacks,60,10,600,2026-07-29,19:52,Card,4.2
+INV-0105,B,Bangalore,Member,Female,Odonil,Household,50,2,100,2026-07-12,16:05,UPI,5.0
+INV-0106,A,Delhi,Normal,Male,Harpic,Household,90,9,810,2026-03-02,16:22,Card,3.1
+INV-0107,A,Delhi,Normal,Female,Red Label Tea,Beverages,120,3,360,2026-06-22,15:21,Cash,3.6
+INV-0108,C,Mumbai,Normal,Male,Britannia Bread,Bakery,40,7,280,2026-03-21,14:42,Net Banking,5.0
+INV-0109,A,Delhi,Normal,Female,Odonil,Household,50,2,100,2026-02-27,10:54,Cash,3.2
+INV-0110,A,Delhi,Normal,Female,Surf Excel,Household,180,10,1800,2026-07-26,11:21,Card,2.5
+INV-0111,C,Mumbai,Normal,Male,Thumbs Up,Beverages,50,10,500,2026-02-20,15:44,UPI,3.4
+INV-0112,A,Delhi,Member,Male,Britannia Good Day,Snacks,30,1,30,2026-02-07,16:18,Net Banking,2.9
+INV-0113,A,Delhi,Normal,Female,Lays,Snacks,20,7,140,2026-01-07,19:25,UPI,5.0
+INV-0114,A,Delhi,Member,Female,Thumbs Up,Beverages,50,3,150,2026-01-12,21:35,UPI,5.0
+INV-0115,B,Bangalore,Member,Female,Amul Butter,Dairy,50,4,200,2026-03-04,09:29,Card,4.7
+INV-0116,B,Bangalore,Member,Female,Mother Dairy Milk,Dairy,30,5,150,2026-05-02,10:20,Net Banking,5.0
+INV-0117,C,Mumbai,Member,Male,Paneer,Dairy,80,5,400,2026-06-06,13:20,Net Banking,5.0
+INV-0118,A,Delhi,Normal,Female,Fair & Lovely,Personal Care,100,6,600,2026-08-06,10:49,Cash,3.0
+INV-0119,C,Mumbai,Normal,Female,Fair & Lovely,Personal Care,100,7,700,2026-07-16,15:55,UPI,5.0
+INV-0120,C,Mumbai,Member,Male,Pepsodent,Personal Care,50,6,300,2026-01-19,17:52,Cash,4.2
+INV-0121,A,Delhi,Normal,Male,Pav,Bakery,30,6,180,2026-04-27,09:42,UPI,5.0
+INV-0122,B,Bangalore,Member,Female,Harvest Gold Bread,Bakery,40,8,320,2026-04-17,17:29,Card,5.0
+INV-0123,C,Mumbai,Member,Male,Amul Butter,Dairy,50,5,250,2026-08-15,15:03,Net Banking,3.5
+INV-0124,B,Bangalore,Member,Female,Bournvita,Beverages,200,4,800,2026-06-11,12:33,Cash,2.4
+INV-0125,B,Bangalore,Normal,Male,Cookies,Bakery,80,2,160,2026-05-28,14:39,Card,3.2
+INV-0126,C,Mumbai,Member,Female,Vim Bar,Household,20,4,80,2026-02-19,21:31,Net Banking,4.0
+INV-0127,A,Delhi,Normal,Male,Harpic,Household,90,3,270,2026-07-03,19:28,Card,5.0
+INV-0128,A,Delhi,Member,Male,Fair & Lovely,Personal Care,100,10,1000,2026-06-28,21:03,Cash,5.0
+INV-0129,A,Delhi,Normal,Female,Pav,Bakery,30,2,60,2026-04-09,12:17,Cash,2.2
+INV-0130,C,Mumbai,Member,Female,Frooti,Beverages,40,3,120,2026-05-07,17:08,Card,4.4
+INV-0131,B,Bangalore,Normal,Female,Lays,Snacks,20,2,40,2026-04-13,13:28,Card,3.8
+INV-0132,A,Delhi,Member,Female,Gillette Razor,Personal Care,200,3,600,2026-03-04,20:31,UPI,2.9
+INV-0133,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,8,400,2026-02-07,10:01,UPI,2.6
+INV-0134,C,Mumbai,Normal,Female,Sunsilk Shampoo,Personal Care,150,8,1200,2026-06-17,19:38,Net Banking,3.4
+INV-0135,A,Delhi,Normal,Female,Pepsodent,Personal Care,50,6,300,2026-06-26,21:15,Card,5.0
+INV-0136,C,Mumbai,Normal,Female,Gillette Razor,Personal Care,200,7,1400,2026-01-02,20:10,UPI,3.5
+INV-0137,B,Bangalore,Normal,Female,Gillette Razor,Personal Care,200,2,400,2026-08-17,13:35,Card,4.2
+INV-0138,C,Mumbai,Normal,Male,Cookies,Bakery,80,9,720,2026-07-12,09:35,Card,4.9
+INV-0139,C,Mumbai,Normal,Male,Britannia Good Day,Snacks,30,6,180,2026-08-09,15:05,Card,3.8
+INV-0140,A,Delhi,Member,Female,Odonil,Household,50,4,200,2026-07-17,12:53,Net Banking,5.0
+INV-0141,C,Mumbai,Member,Female,Frooti,Beverages,40,8,320,2026-08-15,10:29,Cash,5.0
+INV-0142,C,Mumbai,Member,Female,Red Label Tea,Beverages,120,5,600,2026-01-28,10:41,Net Banking,3.0
+INV-0143,A,Delhi,Normal,Female,Haldiram Namkeen,Snacks,60,8,480,2026-07-19,11:31,UPI,4.0
+INV-0144,C,Mumbai,Member,Male,Colin,Household,80,5,400,2026-04-19,20:18,Cash,3.4
+INV-0145,C,Mumbai,Member,Male,Pepsodent,Personal Care,50,2,100,2026-02-26,17:45,Cash,3.3
+INV-0146,A,Delhi,Member,Female,Bournvita,Beverages,200,8,1600,2026-02-15,13:26,Cash,2.5
+INV-0147,A,Delhi,Normal,Female,Haldiram Namkeen,Snacks,60,3,180,2026-07-25,16:30,Net Banking,4.6
+INV-0148,A,Delhi,Normal,Female,Mother Dairy Milk,Dairy,30,5,150,2026-06-28,12:29,Card,4.2
+INV-0149,B,Bangalore,Member,Female,Paneer,Dairy,80,10,800,2026-05-13,17:09,Card,2.4
+INV-0150,C,Mumbai,Member,Female,Surf Excel,Household,180,1,180,2026-04-29,15:12,Net Banking,3.1
+INV-0151,B,Bangalore,Normal,Male,Surf Excel,Household,180,4,720,2026-01-13,18:32,Cash,5.0
+INV-0152,B,Bangalore,Normal,Male,Thumbs Up,Beverages,50,5,250,2026-05-23,20:56,Cash,3.3
+INV-0153,B,Bangalore,Member,Female,Cookies,Bakery,80,3,240,2026-03-05,11:55,Net Banking,2.7
+INV-0154,B,Bangalore,Normal,Female,Curd,Dairy,40,2,80,2026-08-23,10:17,Card,4.3
+INV-0155,C,Mumbai,Member,Female,Kurkure,Snacks,20,4,80,2026-08-06,21:50,Card,5.0
+INV-0156,A,Delhi,Normal,Male,Pav,Bakery,30,6,180,2026-02-01,15:21,Net Banking,3.1
+INV-0157,B,Bangalore,Member,Female,Red Label Tea,Beverages,120,7,840,2026-04-27,21:32,Card,5.0
+INV-0158,A,Delhi,Member,Female,Harpic,Household,90,9,810,2026-02-04,13:52,UPI,5.0
+INV-0159,C,Mumbai,Member,Male,Vim Bar,Household,20,1,20,2026-07-25,09:18,Net Banking,3.0
+INV-0160,B,Bangalore,Member,Female,Amul Cheese,Dairy,150,8,1200,2026-04-29,20:19,UPI,4.9
+INV-0161,C,Mumbai,Normal,Female,Amul Cheese,Dairy,150,7,1050,2026-06-20,18:37,Cash,3.6
+INV-0162,B,Bangalore,Member,Female,Odonil,Household,50,3,150,2026-05-16,19:31,Cash,4.9
+INV-0163,C,Mumbai,Normal,Male,Lifebuoy Soap,Personal Care,30,1,30,2026-05-24,11:28,Card,5.0
+INV-0164,A,Delhi,Member,Male,Amul Cheese,Dairy,150,10,1500,2026-06-02,17:30,Card,4.2
+INV-0165,B,Bangalore,Normal,Male,Red Label Tea,Beverages,120,8,960,2026-03-23,14:21,Card,2.6
+INV-0166,A,Delhi,Normal,Female,Vim Bar,Household,20,9,180,2026-07-13,17:48,Card,5.0
+INV-0167,C,Mumbai,Member,Female,Paneer,Dairy,80,9,720,2026-08-17,17:24,Cash,3.5
+INV-0168,A,Delhi,Normal,Male,Red Label Tea,Beverages,120,4,480,2026-04-24,16:59,Cash,2.7
+INV-0169,B,Bangalore,Member,Male,Bournvita,Beverages,200,2,400,2026-06-06,14:55,Net Banking,2.3
+INV-0170,B,Bangalore,Member,Male,Vim Bar,Household,20,8,160,2026-07-28,12:44,Net Banking,4.6
+INV-0171,B,Bangalore,Member,Female,Tata Tea,Beverages,150,2,300,2026-07-04,12:36,Cash,5.0
+INV-0172,B,Bangalore,Member,Female,Amul Cheese,Dairy,150,6,900,2026-08-17,15:14,Cash,2.2
+INV-0173,A,Delhi,Normal,Female,Frooti,Beverages,40,2,80,2026-05-10,21:26,Net Banking,4.1
+INV-0174,B,Bangalore,Member,Male,Harpic,Household,90,1,90,2026-04-20,09:20,UPI,3.0
+INV-0175,A,Delhi,Normal,Male,Pav,Bakery,30,1,30,2026-08-01,20:30,UPI,4.8
+INV-0176,C,Mumbai,Member,Male,Colin,Household,80,4,320,2026-08-21,20:58,UPI,3.0
+INV-0177,B,Bangalore,Member,Male,Bournvita,Beverages,200,9,1800,2026-05-21,21:24,Card,4.9
+INV-0178,C,Mumbai,Normal,Female,Pepsodent,Personal Care,50,4,200,2026-04-25,15:42,UPI,3.9
+INV-0179,A,Delhi,Member,Female,Britannia Good Day,Snacks,30,7,210,2026-08-18,21:52,Net Banking,5.0
+INV-0180,B,Bangalore,Normal,Male,Amul Butter,Dairy,50,6,300,2026-02-10,19:09,Net Banking,2.7
+INV-0181,B,Bangalore,Member,Female,Paneer,Dairy,80,2,160,2026-07-10,16:02,Card,3.8
+INV-0182,A,Delhi,Member,Female,Odonil,Household,50,10,500,2026-08-09,11:32,Cash,2.6
+INV-0183,A,Delhi,Member,Female,Sunsilk Shampoo,Personal Care,150,10,1500,2026-05-02,18:21,Cash,5.0
+INV-0184,B,Bangalore,Normal,Female,Parle-G,Snacks,20,5,100,2026-04-26,10:55,Net Banking,5.0
+INV-0185,B,Bangalore,Normal,Male,Bournvita,Beverages,200,10,2000,2026-03-08,16:06,Net Banking,3.0
+INV-0186,A,Delhi,Normal,Male,Mother Dairy Milk,Dairy,30,1,30,2026-07-12,17:58,UPI,4.7
+INV-0187,B,Bangalore,Member,Male,Colin,Household,80,2,160,2026-03-05,16:00,UPI,5.0
+INV-0188,A,Delhi,Member,Male,Harvest Gold Bread,Bakery,40,4,160,2026-08-04,20:09,Net Banking,4.2
+INV-0189,C,Mumbai,Normal,Male,Paneer,Dairy,80,8,640,2026-06-13,15:55,UPI,4.3
+INV-0190,B,Bangalore,Normal,Male,Amul Butter,Dairy,50,3,150,2026-03-12,19:09,Cash,3.0
+INV-0191,A,Delhi,Member,Male,Tata Tea,Beverages,150,2,300,2026-07-16,10:30,Card,2.6
+INV-0192,C,Mumbai,Normal,Male,Haldiram Namkeen,Snacks,60,6,360,2026-07-19,21:16,Card,5.0
+INV-0193,C,Mumbai,Member,Female,Kurkure,Snacks,20,2,40,2026-05-14,14:39,Card,5.0
+INV-0194,C,Mumbai,Normal,Male,Vim Bar,Household,20,1,20,2026-05-05,20:25,Net Banking,4.9
+INV-0195,C,Mumbai,Normal,Male,Odonil,Household,50,8,400,2026-06-10,19:05,UPI,3.6
+INV-0196,C,Mumbai,Member,Male,Fair & Lovely,Personal Care,100,1,100,2026-03-03,14:54,Cash,3.4
+INV-0197,B,Bangalore,Member,Female,Odonil,Household,50,3,150,2026-03-12,19:54,UPI,5.0
+INV-0198,C,Mumbai,Member,Male,Bournvita,Beverages,200,8,1600,2026-04-23,17:24,UPI,5.0
+INV-0199,B,Bangalore,Member,Female,Amul Cheese,Dairy,150,8,1200,2026-01-20,14:40,Cash,5.0
+INV-0200,A,Delhi,Member,Female,Bournvita,Beverages,200,10,2000,2026-07-02,20:56,Net Banking,5.0
+INV-0201,C,Mumbai,Member,Male,Frooti,Beverages,40,8,320,2026-03-15,21:31,Card,4.8
+INV-0202,B,Bangalore,Normal,Female,Surf Excel,Household,180,1,180,2026-03-02,17:02,Card,2.5
+INV-0203,B,Bangalore,Member,Female,Curd,Dairy,40,7,280,2026-03-11,18:04,Net Banking,3.0
+INV-0204,C,Mumbai,Normal,Male,Fruit Cake,Bakery,100,7,700,2026-03-27,12:40,Net Banking,5.0
+INV-0205,B,Bangalore,Normal,Male,Britannia Good Day,Snacks,30,3,90,2026-03-23,19:58,Cash,4.5
+INV-0206,C,Mumbai,Member,Male,Mother Dairy Milk,Dairy,30,6,180,2026-08-17,13:14,Net Banking,2.1
+INV-0207,C,Mumbai,Member,Female,Mother Dairy Milk,Dairy,30,4,120,2026-05-19,20:05,UPI,2.5
+INV-0208,C,Mumbai,Normal,Female,Frooti,Beverages,40,3,120,2026-01-21,15:06,UPI,4.8
+INV-0209,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,6,900,2026-02-05,21:40,Cash,2.0
+INV-0210,C,Mumbai,Normal,Female,Paneer,Dairy,80,5,400,2026-02-08,20:55,UPI,2.7
+INV-0211,C,Mumbai,Member,Male,Parle-G,Snacks,20,8,160,2026-03-01,10:28,Card,4.3
+INV-0212,C,Mumbai,Normal,Male,Surf Excel,Household,180,3,540,2026-04-09,11:44,Net Banking,4.9
+INV-0213,B,Bangalore,Member,Male,Bournvita,Beverages,200,8,1600,2026-06-27,13:57,Net Banking,4.6
+INV-0214,C,Mumbai,Normal,Female,Pav,Bakery,30,10,300,2026-02-09,09:02,Card,3.0
+INV-0215,B,Bangalore,Normal,Female,Fair & Lovely,Personal Care,100,10,1000,2026-06-30,14:50,Net Banking,5.0
+INV-0216,B,Bangalore,Member,Male,Surf Excel,Household,180,10,1800,2026-02-24,09:18,Net Banking,3.0
+INV-0217,B,Bangalore,Member,Female,Britannia Good Day,Snacks,30,4,120,2026-01-17,14:23,Cash,3.6
+INV-0218,C,Mumbai,Normal,Male,Lays,Snacks,20,5,100,2026-04-17,15:09,Net Banking,5.0
+INV-0219,A,Delhi,Member,Female,Frooti,Beverages,40,8,320,2026-04-15,12:33,Net Banking,4.6
+INV-0220,C,Mumbai,Member,Female,Mother Dairy Milk,Dairy,30,7,210,2026-03-26,15:36,UPI,5.0
+INV-0221,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,9,450,2026-05-19,19:50,Cash,4.7
+INV-0222,A,Delhi,Member,Female,Mother Dairy Milk,Dairy,30,8,240,2026-04-30,11:10,Net Banking,4.3
+INV-0223,B,Bangalore,Member,Male,Fair & Lovely,Personal Care,100,1,100,2026-04-17,11:05,UPI,2.6
+INV-0224,A,Delhi,Normal,Male,Amul Cheese,Dairy,150,7,1050,2026-01-16,18:55,Card,3.7
+INV-0225,C,Mumbai,Normal,Male,Amul Butter,Dairy,50,5,250,2026-02-22,15:39,UPI,3.3
+INV-0226,B,Bangalore,Member,Female,Curd,Dairy,40,7,280,2026-08-02,19:15,Net Banking,3.0
+INV-0227,C,Mumbai,Normal,Male,Pepsodent,Personal Care,50,3,150,2026-04-18,16:58,UPI,5.0
+INV-0228,C,Mumbai,Normal,Female,Pav,Bakery,30,7,210,2026-04-10,18:09,Card,3.7
+INV-0229,B,Bangalore,Member,Female,Pav,Bakery,30,4,120,2026-08-20,12:29,Cash,5.0
+INV-0230,C,Mumbai,Normal,Male,Parle-G,Snacks,20,9,180,2026-07-17,19:16,Net Banking,4.6
+INV-0231,B,Bangalore,Member,Female,Parle-G,Snacks,20,4,80,2026-05-30,16:16,Net Banking,5.0
+INV-0232,A,Delhi,Normal,Female,Kurkure,Snacks,20,9,180,2026-08-31,19:00,Net Banking,4.0
+INV-0233,A,Delhi,Normal,Female,Parle-G,Snacks,20,1,20,2026-06-28,21:29,Cash,4.3
+INV-0234,B,Bangalore,Normal,Female,Britannia Bread,Bakery,40,7,280,2026-01-06,13:43,Net Banking,4.0
+INV-0235,B,Bangalore,Member,Male,Sunsilk Shampoo,Personal Care,150,6,900,2026-08-08,17:10,UPI,2.9
+INV-0236,B,Bangalore,Member,Female,Britannia Bread,Bakery,40,8,320,2026-08-14,10:28,Card,4.9
+INV-0237,C,Mumbai,Member,Male,Fruit Cake,Bakery,100,9,900,2026-07-15,14:37,UPI,3.3
+INV-0238,A,Delhi,Member,Male,Curd,Dairy,40,8,320,2026-05-28,13:40,Net Banking,2.4
+INV-0239,A,Delhi,Member,Male,Parle-G,Snacks,20,6,120,2026-04-08,15:44,Cash,4.6
+INV-0240,A,Delhi,Member,Female,Mother Dairy Milk,Dairy,30,10,300,2026-05-03,13:29,Cash,2.8
+INV-0241,A,Delhi,Normal,Male,Pepsodent,Personal Care,50,9,450,2026-01-02,13:12,Net Banking,5.0
+INV-0242,A,Delhi,Member,Male,Gillette Razor,Personal Care,200,6,1200,2026-08-30,15:54,UPI,5.0
+INV-0243,A,Delhi,Normal,Male,Amul Butter,Dairy,50,7,350,2026-04-01,16:06,UPI,5.0
+INV-0244,B,Bangalore,Member,Female,Curd,Dairy,40,5,200,2026-03-18,12:24,Cash,3.9
+INV-0245,C,Mumbai,Member,Male,Vim Bar,Household,20,3,60,2026-07-12,18:22,Cash,2.4
+INV-0246,B,Bangalore,Normal,Female,Paneer,Dairy,80,1,80,2026-04-10,18:18,Cash,5.0
+INV-0247,A,Delhi,Member,Female,Parle-G,Snacks,20,6,120,2026-08-07,20:18,UPI,3.7
+INV-0248,C,Mumbai,Normal,Male,Pepsodent,Personal Care,50,10,500,2026-08-17,09:53,Net Banking,5.0
+INV-0249,C,Mumbai,Member,Male,Odonil,Household,50,4,200,2026-08-02,19:25,Cash,5.0
+INV-0250,B,Bangalore,Normal,Male,Haldiram Namkeen,Snacks,60,1,60,2026-04-18,13:00,Cash,5.0
+INV-0251,A,Delhi,Normal,Female,Tata Tea,Beverages,150,4,600,2026-05-18,18:55,Cash,3.6
+INV-0252,A,Delhi,Normal,Female,Haldiram Namkeen,Snacks,60,1,60,2026-07-11,19:49,Net Banking,3.6
+INV-0253,A,Delhi,Normal,Female,Kurkure,Snacks,20,8,160,2026-07-08,20:03,Net Banking,5.0
+INV-0254,B,Bangalore,Normal,Female,Odonil,Household,50,9,450,2026-05-20,18:47,Net Banking,3.5
+INV-0255,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,4,600,2026-07-24,16:53,Net Banking,2.9
+INV-0256,C,Mumbai,Member,Male,Odonil,Household,50,10,500,2026-06-04,13:49,UPI,4.6
+INV-0257,B,Bangalore,Normal,Male,Curd,Dairy,40,4,160,2026-08-18,21:14,Card,5.0
+INV-0258,C,Mumbai,Normal,Female,Lifebuoy Soap,Personal Care,30,3,90,2026-02-26,18:51,Net Banking,4.9
+INV-0259,B,Bangalore,Member,Female,Fair & Lovely,Personal Care,100,2,200,2026-05-05,14:14,UPI,4.6
+INV-0260,C,Mumbai,Member,Male,Kurkure,Snacks,20,4,80,2026-02-26,19:12,Card,2.4
+INV-0261,B,Bangalore,Member,Male,Pepsodent,Personal Care,50,4,200,2026-03-11,18:16,Cash,4.7
+INV-0262,A,Delhi,Normal,Female,Cookies,Bakery,80,5,400,2026-04-22,19:48,Net Banking,5.0
+INV-0263,C,Mumbai,Member,Female,Pepsodent,Personal Care,50,9,450,2026-05-05,20:49,UPI,3.0
+INV-0264,C,Mumbai,Member,Male,Colin,Household,80,1,80,2026-01-08,19:43,Card,4.3
+INV-0265,A,Delhi,Member,Male,Colin,Household,80,4,320,2026-04-10,11:40,UPI,5.0
+INV-0266,C,Mumbai,Member,Male,Paneer,Dairy,80,10,800,2026-03-28,10:57,Net Banking,5.0
+INV-0267,A,Delhi,Member,Female,Haldiram Namkeen,Snacks,60,7,420,2026-06-21,19:41,Net Banking,5.0
+INV-0268,C,Mumbai,Member,Male,Amul Butter,Dairy,50,6,300,2026-06-23,09:19,Card,5.0
+INV-0269,B,Bangalore,Normal,Male,Colin,Household,80,3,240,2026-07-24,21:28,Net Banking,3.5
+INV-0270,A,Delhi,Member,Female,Gillette Razor,Personal Care,200,3,600,2026-04-14,09:37,UPI,3.2
+INV-0271,C,Mumbai,Normal,Male,Lays,Snacks,20,4,80,2026-07-05,14:46,Cash,5.0
+INV-0272,C,Mumbai,Member,Female,Harvest Gold Bread,Bakery,40,10,400,2026-02-12,11:05,Card,5.0
+INV-0273,C,Mumbai,Normal,Male,Tata Tea,Beverages,150,6,900,2026-08-04,13:20,UPI,5.0
+INV-0274,C,Mumbai,Member,Female,Lays,Snacks,20,6,120,2026-04-30,20:26,Card,5.0
+INV-0275,B,Bangalore,Normal,Male,Britannia Bread,Bakery,40,10,400,2026-08-24,11:12,UPI,4.4
+INV-0276,C,Mumbai,Normal,Female,Red Label Tea,Beverages,120,1,120,2026-02-02,11:50,Cash,4.2
+INV-0277,B,Bangalore,Member,Male,Britannia Bread,Bakery,40,6,240,2026-06-09,17:56,Card,5.0
+INV-0278,B,Bangalore,Member,Male,Frooti,Beverages,40,10,400,2026-05-17,14:33,Cash,4.8
+INV-0279,A,Delhi,Member,Male,Harpic,Household,90,10,900,2026-01-07,17:58,Card,5.0
+INV-0280,B,Bangalore,Normal,Female,Haldiram Namkeen,Snacks,60,3,180,2026-08-21,13:53,Card,5.0
+INV-0281,A,Delhi,Normal,Male,Colin,Household,80,10,800,2026-04-11,11:16,Cash,5.0
+INV-0282,A,Delhi,Member,Male,Surf Excel,Household,180,4,720,2026-06-01,16:51,UPI,3.3
+INV-0283,C,Mumbai,Normal,Female,Britannia Bread,Bakery,40,8,320,2026-05-25,13:47,Card,3.6
+INV-0284,C,Mumbai,Normal,Male,Sunsilk Shampoo,Personal Care,150,9,1350,2026-06-19,14:51,Card,2.6
+INV-0285,A,Delhi,Member,Female,Amul Butter,Dairy,50,5,250,2026-01-07,10:29,Card,4.4
+INV-0286,C,Mumbai,Normal,Male,Sunsilk Shampoo,Personal Care,150,3,450,2026-01-22,10:09,Card,2.1
+INV-0287,B,Bangalore,Member,Male,Odonil,Household,50,8,400,2026-06-14,21:14,Card,4.2
+INV-0288,C,Mumbai,Member,Male,Harpic,Household,90,1,90,2026-04-20,19:46,UPI,4.5
+INV-0289,C,Mumbai,Normal,Male,Harpic,Household,90,2,180,2026-02-04,19:25,Card,3.3
+INV-0290,A,Delhi,Normal,Female,Fair & Lovely,Personal Care,100,1,100,2026-08-10,21:35,Cash,4.6
+INV-0291,A,Delhi,Normal,Male,Lifebuoy Soap,Personal Care,30,4,120,2026-04-29,14:05,UPI,2.4
+INV-0292,B,Bangalore,Normal,Male,Fair & Lovely,Personal Care,100,10,1000,2026-02-16,21:25,UPI,2.4
+INV-0293,B,Bangalore,Member,Male,Parle-G,Snacks,20,4,80,2026-01-13,09:16,Card,5.0
+INV-0294,C,Mumbai,Normal,Male,Cookies,Bakery,80,1,80,2026-03-08,17:07,Net Banking,3.7
+INV-0295,C,Mumbai,Member,Male,Kurkure,Snacks,20,9,180,2026-04-08,16:23,Cash,2.6
+INV-0296,A,Delhi,Normal,Male,Fair & Lovely,Personal Care,100,8,800,2026-03-25,19:47,UPI,4.2
+INV-0297,A,Delhi,Member,Female,Fruit Cake,Bakery,100,1,100,2026-02-24,19:16,Net Banking,5.0
+INV-0298,B,Bangalore,Member,Male,Lifebuoy Soap,Personal Care,30,6,180,2026-04-27,18:24,Net Banking,2.9
+INV-0299,B,Bangalore,Normal,Male,Pav,Bakery,30,10,300,2026-03-25,19:23,UPI,4.6
+INV-0300,C,Mumbai,Normal,Male,Harpic,Household,90,4,360,2026-03-28,10:43,UPI,2.6
+INV-0301,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,3,150,2026-07-14,12:30,UPI,2.4
+INV-0302,A,Delhi,Member,Female,Colin,Household,80,6,480,2026-08-14,09:39,Cash,4.3
+INV-0303,C,Mumbai,Member,Female,Amul Butter,Dairy,50,3,150,2026-04-08,17:20,Card,4.2
+INV-0304,A,Delhi,Member,Male,Bournvita,Beverages,200,6,1200,2026-03-13,18:14,Card,4.9
+INV-0305,C,Mumbai,Member,Female,Kurkure,Snacks,20,1,20,2026-07-12,19:04,UPI,5.0
+INV-0306,B,Bangalore,Normal,Female,Gillette Razor,Personal Care,200,1,200,2026-08-01,19:52,Cash,5.0
+INV-0307,B,Bangalore,Normal,Male,Vim Bar,Household,20,3,60,2026-04-18,16:58,Cash,4.1
+INV-0308,C,Mumbai,Normal,Female,Frooti,Beverages,40,10,400,2026-03-06,20:19,Card,3.4
+INV-0309,C,Mumbai,Member,Male,Thumbs Up,Beverages,50,3,150,2026-08-02,19:26,UPI,5.0
+INV-0310,A,Delhi,Normal,Female,Britannia Good Day,Snacks,30,2,60,2026-01-21,10:08,Card,3.2
+INV-0311,C,Mumbai,Member,Female,Lays,Snacks,20,9,180,2026-05-01,09:02,Card,3.9
+INV-0312,C,Mumbai,Member,Male,Britannia Bread,Bakery,40,6,240,2026-01-05,13:31,UPI,2.6
+INV-0313,B,Bangalore,Normal,Male,Mother Dairy Milk,Dairy,30,2,60,2026-07-11,10:06,Cash,2.2
+INV-0314,B,Bangalore,Normal,Female,Amul Cheese,Dairy,150,10,1500,2026-05-19,12:56,Card,5.0
+INV-0315,A,Delhi,Member,Female,Sunsilk Shampoo,Personal Care,150,7,1050,2026-01-14,17:08,Net Banking,5.0
+INV-0316,B,Bangalore,Member,Male,Sunsilk Shampoo,Personal Care,150,10,1500,2026-03-31,15:29,Net Banking,5.0
+INV-0317,B,Bangalore,Normal,Male,Mother Dairy Milk,Dairy,30,2,60,2026-02-27,14:42,Card,3.6
+INV-0318,C,Mumbai,Normal,Male,Red Label Tea,Beverages,120,6,720,2026-06-16,20:44,Cash,2.9
+INV-0319,A,Delhi,Normal,Female,Odonil,Household,50,5,250,2026-01-18,17:26,UPI,2.8
+INV-0320,C,Mumbai,Normal,Male,Odonil,Household,50,6,300,2026-07-19,18:47,Card,3.2
+INV-0321,B,Bangalore,Normal,Female,Amul Butter,Dairy,50,3,150,2026-06-16,20:09,UPI,4.2
+INV-0322,A,Delhi,Normal,Male,Colin,Household,80,3,240,2026-01-11,15:41,Card,5.0
+INV-0323,B,Bangalore,Member,Male,Surf Excel,Household,180,7,1260,2026-07-13,10:53,Net Banking,4.6
+INV-0324,B,Bangalore,Normal,Male,Harvest Gold Bread,Bakery,40,8,320,2026-01-08,16:39,UPI,3.2
+INV-0325,B,Bangalore,Normal,Male,Paneer,Dairy,80,6,480,2026-03-05,15:17,Net Banking,5.0
+INV-0326,B,Bangalore,Normal,Male,Amul Cheese,Dairy,150,10,1500,2026-02-21,09:44,UPI,4.9
+INV-0327,C,Mumbai,Normal,Male,Fair & Lovely,Personal Care,100,9,900,2026-08-03,14:13,Cash,4.4
+INV-0328,B,Bangalore,Member,Male,Harvest Gold Bread,Bakery,40,10,400,2026-01-06,16:28,Net Banking,4.5
+INV-0329,A,Delhi,Member,Male,Britannia Bread,Bakery,40,6,240,2026-06-09,12:54,Net Banking,3.8
+INV-0330,A,Delhi,Normal,Male,Red Label Tea,Beverages,120,4,480,2026-02-09,14:06,Net Banking,3.2
+INV-0331,B,Bangalore,Member,Male,Cookies,Bakery,80,10,800,2026-03-03,19:23,Card,3.5
+INV-0332,A,Delhi,Normal,Female,Gillette Razor,Personal Care,200,3,600,2026-02-02,17:57,Net Banking,5.0
+INV-0333,A,Delhi,Member,Male,Surf Excel,Household,180,7,1260,2026-05-02,19:22,Net Banking,2.2
+INV-0334,C,Mumbai,Normal,Male,Britannia Bread,Bakery,40,5,200,2026-06-21,09:25,UPI,2.6
+INV-0335,A,Delhi,Member,Female,Odonil,Household,50,5,250,2026-01-30,13:12,UPI,2.7
+INV-0336,B,Bangalore,Normal,Female,Mother Dairy Milk,Dairy,30,3,90,2026-05-25,10:54,Card,2.7
+INV-0337,A,Delhi,Member,Male,Cookies,Bakery,80,3,240,2026-08-31,16:05,Cash,5.0
+INV-0338,B,Bangalore,Normal,Female,Harpic,Household,90,1,90,2026-02-25,19:13,Card,4.9
+INV-0339,B,Bangalore,Normal,Female,Curd,Dairy,40,10,400,2026-04-30,19:40,Cash,4.2
+INV-0340,B,Bangalore,Normal,Male,Britannia Good Day,Snacks,30,7,210,2026-06-29,18:01,Net Banking,2.6
+INV-0341,B,Bangalore,Member,Female,Kurkure,Snacks,20,10,200,2026-03-07,09:50,Cash,4.0
+INV-0342,A,Delhi,Normal,Female,Pepsodent,Personal Care,50,1,50,2026-07-16,14:15,Cash,4.1
+INV-0343,B,Bangalore,Member,Female,Frooti,Beverages,40,3,120,2026-04-05,11:50,UPI,2.9
+INV-0344,A,Delhi,Normal,Male,Britannia Bread,Bakery,40,10,400,2026-02-12,18:13,Card,3.9
+INV-0345,B,Bangalore,Member,Male,Odonil,Household,50,6,300,2026-06-05,10:53,Net Banking,3.6
+INV-0346,B,Bangalore,Member,Male,Harvest Gold Bread,Bakery,40,10,400,2026-06-05,21:35,Net Banking,4.7
+INV-0347,B,Bangalore,Normal,Male,Colin,Household,80,4,320,2026-07-11,12:37,Net Banking,4.7
+INV-0348,C,Mumbai,Normal,Female,Bournvita,Beverages,200,10,2000,2026-07-03,12:52,UPI,2.2
+INV-0349,A,Delhi,Member,Female,Sunsilk Shampoo,Personal Care,150,2,300,2026-01-30,12:21,UPI,4.0
+INV-0350,B,Bangalore,Member,Female,Britannia Bread,Bakery,40,8,320,2026-07-19,21:09,UPI,4.7
+INV-0351,B,Bangalore,Normal,Female,Tata Tea,Beverages,150,3,450,2026-07-29,21:57,UPI,4.2
+INV-0352,A,Delhi,Member,Female,Pav,Bakery,30,6,180,2026-02-11,18:00,Card,5.0
+INV-0353,A,Delhi,Member,Female,Thumbs Up,Beverages,50,1,50,2026-03-21,13:54,Card,4.7
+INV-0354,C,Mumbai,Member,Female,Paneer,Dairy,80,4,320,2026-01-28,11:08,UPI,2.8
+INV-0355,B,Bangalore,Member,Female,Cookies,Bakery,80,6,480,2026-05-29,17:16,Net Banking,2.6
+INV-0356,C,Mumbai,Member,Male,Amul Butter,Dairy,50,6,300,2026-01-07,21:11,Net Banking,4.9
+INV-0357,A,Delhi,Normal,Male,Cookies,Bakery,80,3,240,2026-08-26,10:42,Cash,2.4
+INV-0358,A,Delhi,Normal,Male,Pav,Bakery,30,2,60,2026-03-21,09:08,Card,4.3
+INV-0359,C,Mumbai,Member,Female,Harvest Gold Bread,Bakery,40,6,240,2026-05-28,09:22,Cash,5.0
+INV-0360,A,Delhi,Normal,Female,Amul Cheese,Dairy,150,10,1500,2026-06-23,21:50,Card,4.4
+INV-0361,C,Mumbai,Member,Male,Harvest Gold Bread,Bakery,40,1,40,2026-08-21,12:37,Cash,3.8
+INV-0362,A,Delhi,Member,Male,Harvest Gold Bread,Bakery,40,5,200,2026-04-07,14:01,Card,4.9
+INV-0363,A,Delhi,Normal,Male,Red Label Tea,Beverages,120,4,480,2026-04-12,11:16,Net Banking,4.3
+INV-0364,C,Mumbai,Normal,Female,Amul Cheese,Dairy,150,5,750,2026-08-30,09:08,UPI,4.7
+INV-0365,C,Mumbai,Member,Female,Red Label Tea,Beverages,120,2,240,2026-07-03,20:26,Net Banking,5.0
+INV-0366,C,Mumbai,Member,Male,Gillette Razor,Personal Care,200,6,1200,2026-02-20,17:07,Net Banking,3.5
+INV-0367,C,Mumbai,Member,Male,Gillette Razor,Personal Care,200,5,1000,2026-01-20,20:04,UPI,5.0
+INV-0368,C,Mumbai,Normal,Male,Bournvita,Beverages,200,2,400,2026-06-01,16:28,Cash,5.0
+INV-0369,C,Mumbai,Normal,Female,Sunsilk Shampoo,Personal Care,150,1,150,2026-06-26,21:23,Card,2.9
+INV-0370,B,Bangalore,Member,Male,Vim Bar,Household,20,1,20,2026-08-01,17:37,Cash,2.6
+INV-0371,A,Delhi,Member,Female,Colin,Household,80,7,560,2026-06-10,10:28,Card,2.6
+INV-0372,A,Delhi,Member,Male,Amul Butter,Dairy,50,8,400,2026-03-04,17:14,Card,2.2
+INV-0373,A,Delhi,Member,Female,Red Label Tea,Beverages,120,6,720,2026-01-27,18:02,Net Banking,2.8
+INV-0374,B,Bangalore,Normal,Male,Red Label Tea,Beverages,120,3,360,2026-06-28,20:50,Net Banking,4.9
+INV-0375,B,Bangalore,Normal,Male,Haldiram Namkeen,Snacks,60,7,420,2026-07-17,19:33,Card,2.4
+INV-0376,A,Delhi,Member,Female,Red Label Tea,Beverages,120,8,960,2026-03-19,13:29,Card,3.5
+INV-0377,B,Bangalore,Normal,Male,Fair & Lovely,Personal Care,100,7,700,2026-08-06,19:01,UPI,5.0
+INV-0378,C,Mumbai,Normal,Male,Lifebuoy Soap,Personal Care,30,6,180,2026-06-25,09:30,UPI,2.5
+INV-0379,B,Bangalore,Member,Male,Paneer,Dairy,80,9,720,2026-06-03,15:27,Cash,5.0
+INV-0380,C,Mumbai,Normal,Female,Tata Tea,Beverages,150,7,1050,2026-07-26,19:06,Cash,3.1
+INV-0381,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,3,450,2026-01-31,16:45,Cash,2.6
+INV-0382,C,Mumbai,Member,Male,Frooti,Beverages,40,8,320,2026-07-23,16:04,Net Banking,4.8
+INV-0383,A,Delhi,Normal,Male,Britannia Bread,Bakery,40,10,400,2026-05-25,10:20,UPI,4.5
+INV-0384,A,Delhi,Normal,Male,Surf Excel,Household,180,4,720,2026-07-20,18:09,UPI,5.0
+INV-0385,A,Delhi,Member,Female,Curd,Dairy,40,3,120,2026-01-11,10:08,Cash,5.0
+INV-0386,A,Delhi,Normal,Male,Haldiram Namkeen,Snacks,60,8,480,2026-03-30,13:39,Card,5.0
+INV-0387,C,Mumbai,Normal,Female,Red Label Tea,Beverages,120,2,240,2026-05-17,19:37,Net Banking,3.4
+INV-0388,C,Mumbai,Member,Female,Harpic,Household,90,1,90,2026-04-20,17:45,Card,2.9
+INV-0389,A,Delhi,Member,Female,Frooti,Beverages,40,5,200,2026-06-19,14:24,Card,5.0
+INV-0390,B,Bangalore,Member,Female,Mother Dairy Milk,Dairy,30,1,30,2026-04-05,18:33,Net Banking,5.0
+INV-0391,B,Bangalore,Normal,Male,Kurkure,Snacks,20,6,120,2026-01-18,13:29,Cash,5.0
+INV-0392,C,Mumbai,Normal,Female,Mother Dairy Milk,Dairy,30,5,150,2026-05-10,17:38,Net Banking,4.2
+INV-0393,A,Delhi,Member,Female,Harpic,Household,90,2,180,2026-06-15,15:06,Cash,3.6
+INV-0394,A,Delhi,Normal,Female,Harvest Gold Bread,Bakery,40,2,80,2026-03-29,21:44,Net Banking,5.0
+INV-0395,A,Delhi,Member,Female,Gillette Razor,Personal Care,200,6,1200,2026-01-04,10:54,Net Banking,3.6
+INV-0396,B,Bangalore,Normal,Male,Surf Excel,Household,180,3,540,2026-08-06,19:41,Net Banking,5.0
+INV-0397,A,Delhi,Member,Male,Red Label Tea,Beverages,120,7,840,2026-04-18,21:35,Card,5.0
+INV-0398,B,Bangalore,Member,Female,Pepsodent,Personal Care,50,3,150,2026-07-30,20:55,UPI,3.7
+INV-0399,C,Mumbai,Normal,Male,Sunsilk Shampoo,Personal Care,150,2,300,2026-05-06,12:27,Net Banking,5.0
+INV-0400,B,Bangalore,Normal,Female,Thumbs Up,Beverages,50,9,450,2026-01-28,16:56,Card,5.0
+INV-0401,C,Mumbai,Member,Female,Amul Cheese,Dairy,150,3,450,2026-04-21,12:26,UPI,2.7
+INV-0402,B,Bangalore,Member,Male,Haldiram Namkeen,Snacks,60,6,360,2026-04-03,14:52,Card,5.0
+INV-0403,C,Mumbai,Normal,Male,Colin,Household,80,10,800,2026-06-12,16:25,Card,4.5
+INV-0404,C,Mumbai,Normal,Male,Pav,Bakery,30,10,300,2026-08-17,15:46,Net Banking,5.0
+INV-0405,B,Bangalore,Member,Female,Sunsilk Shampoo,Personal Care,150,8,1200,2026-08-01,10:20,Cash,3.4
+INV-0406,C,Mumbai,Normal,Male,Paneer,Dairy,80,1,80,2026-04-28,15:20,Card,5.0
+INV-0407,B,Bangalore,Member,Female,Haldiram Namkeen,Snacks,60,7,420,2026-07-01,19:16,UPI,3.8
+INV-0408,A,Delhi,Normal,Female,Harvest Gold Bread,Bakery,40,3,120,2026-02-09,14:09,Cash,2.2
+INV-0409,B,Bangalore,Normal,Male,Thumbs Up,Beverages,50,10,500,2026-04-22,19:59,Cash,5.0
+INV-0410,A,Delhi,Member,Female,Frooti,Beverages,40,7,280,2026-02-15,16:04,UPI,2.5
+INV-0411,C,Mumbai,Normal,Female,Vim Bar,Household,20,3,60,2026-07-07,10:53,Cash,3.5
+INV-0412,C,Mumbai,Normal,Female,Amul Cheese,Dairy,150,3,450,2026-05-14,10:05,Card,5.0
+INV-0413,C,Mumbai,Member,Male,Amul Butter,Dairy,50,2,100,2026-06-16,15:06,Cash,5.0
+INV-0414,B,Bangalore,Normal,Female,Odonil,Household,50,6,300,2026-03-11,20:47,Net Banking,4.4
+INV-0415,C,Mumbai,Normal,Female,Lays,Snacks,20,4,80,2026-06-07,14:51,Net Banking,5.0
+INV-0416,A,Delhi,Member,Male,Gillette Razor,Personal Care,200,4,800,2026-07-26,11:35,UPI,3.9
+INV-0417,C,Mumbai,Member,Female,Amul Cheese,Dairy,150,10,1500,2026-08-24,09:37,Net Banking,3.4
+INV-0418,A,Delhi,Member,Male,Sunsilk Shampoo,Personal Care,150,9,1350,2026-05-18,17:35,Net Banking,3.5
+INV-0419,A,Delhi,Member,Female,Amul Cheese,Dairy,150,10,1500,2026-07-18,14:42,Cash,4.9
+INV-0420,A,Delhi,Normal,Male,Kurkure,Snacks,20,5,100,2026-05-04,10:26,Net Banking,5.0
+INV-0421,B,Bangalore,Normal,Female,Fruit Cake,Bakery,100,5,500,2026-04-30,14:55,UPI,5.0
+INV-0422,A,Delhi,Member,Female,Tata Tea,Beverages,150,5,750,2026-04-22,19:48,Card,5.0
+INV-0423,A,Delhi,Member,Male,Amul Cheese,Dairy,150,7,1050,2026-07-31,15:55,UPI,2.6
+INV-0424,A,Delhi,Normal,Male,Harvest Gold Bread,Bakery,40,2,80,2026-07-07,20:03,UPI,4.2
+INV-0425,B,Bangalore,Normal,Female,Haldiram Namkeen,Snacks,60,1,60,2026-06-01,13:38,Card,2.3
+INV-0426,A,Delhi,Normal,Female,Sunsilk Shampoo,Personal Care,150,7,1050,2026-03-10,13:22,UPI,4.5
+INV-0427,B,Bangalore,Member,Male,Parle-G,Snacks,20,10,200,2026-03-24,10:36,Card,4.2
+INV-0428,C,Mumbai,Normal,Female,Mother Dairy Milk,Dairy,30,9,270,2026-08-07,17:13,Cash,5.0
+INV-0429,C,Mumbai,Normal,Female,Gillette Razor,Personal Care,200,8,1600,2026-03-04,11:42,Card,3.9
+INV-0430,B,Bangalore,Normal,Female,Odonil,Household,50,3,150,2026-08-01,16:14,Card,2.5
+INV-0431,A,Delhi,Member,Male,Odonil,Household,50,1,50,2026-08-28,10:22,Net Banking,3.1
+INV-0432,B,Bangalore,Normal,Male,Lays,Snacks,20,6,120,2026-01-23,17:23,Cash,5.0
+INV-0433,B,Bangalore,Normal,Female,Mother Dairy Milk,Dairy,30,1,30,2026-03-13,10:48,Card,4.6
+INV-0434,A,Delhi,Member,Male,Lays,Snacks,20,7,140,2026-08-14,13:36,UPI,2.6
+INV-0435,C,Mumbai,Member,Male,Gillette Razor,Personal Care,200,2,400,2026-04-26,12:51,Cash,2.3
+INV-0436,B,Bangalore,Member,Female,Red Label Tea,Beverages,120,5,600,2026-03-04,15:54,UPI,5.0
+INV-0437,A,Delhi,Normal,Male,Harvest Gold Bread,Bakery,40,10,400,2026-07-12,17:49,Card,2.6
+INV-0438,B,Bangalore,Member,Male,Tata Tea,Beverages,150,8,1200,2026-04-29,18:39,Cash,5.0
+INV-0439,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,5,750,2026-05-26,19:41,Card,4.9
+INV-0440,B,Bangalore,Normal,Male,Britannia Good Day,Snacks,30,2,60,2026-06-06,17:01,UPI,2.3
+INV-0441,C,Mumbai,Normal,Male,Mother Dairy Milk,Dairy,30,1,30,2026-06-21,18:59,Net Banking,2.8
+INV-0442,A,Delhi,Normal,Female,Britannia Bread,Bakery,40,4,160,2026-04-08,19:53,Cash,5.0
+INV-0443,C,Mumbai,Normal,Male,Amul Butter,Dairy,50,3,150,2026-03-28,20:17,Card,3.6
+INV-0444,B,Bangalore,Normal,Female,Pepsodent,Personal Care,50,5,250,2026-01-08,09:11,Cash,3.6
+INV-0445,A,Delhi,Normal,Male,Parle-G,Snacks,20,2,40,2026-05-07,13:44,Net Banking,5.0
+INV-0446,B,Bangalore,Normal,Male,Curd,Dairy,40,8,320,2026-08-06,21:19,Cash,5.0
+INV-0447,A,Delhi,Member,Female,Cookies,Bakery,80,2,160,2026-03-25,14:22,UPI,5.0
+INV-0448,B,Bangalore,Member,Female,Red Label Tea,Beverages,120,5,600,2026-02-16,09:11,Cash,5.0
+INV-0449,C,Mumbai,Normal,Male,Fair & Lovely,Personal Care,100,7,700,2026-05-05,11:36,Net Banking,3.8
+INV-0450,A,Delhi,Member,Male,Tata Tea,Beverages,150,8,1200,2026-02-24,19:25,Net Banking,2.4
+INV-0451,C,Mumbai,Normal,Male,Haldiram Namkeen,Snacks,60,8,480,2026-04-01,10:09,Cash,5.0
+INV-0452,B,Bangalore,Normal,Male,Pav,Bakery,30,5,150,2026-07-24,20:40,Net Banking,4.3
+INV-0453,A,Delhi,Normal,Male,Fruit Cake,Bakery,100,2,200,2026-03-08,09:05,UPI,3.9
+INV-0454,C,Mumbai,Member,Male,Bournvita,Beverages,200,7,1400,2026-03-29,20:33,UPI,5.0
+INV-0455,A,Delhi,Member,Female,Kurkure,Snacks,20,7,140,2026-03-13,12:24,Net Banking,2.8
+INV-0456,C,Mumbai,Member,Female,Vim Bar,Household,20,3,60,2026-08-14,15:29,Cash,4.0
+INV-0457,A,Delhi,Member,Male,Odonil,Household,50,6,300,2026-06-02,14:10,Net Banking,2.0
+INV-0458,C,Mumbai,Member,Female,Amul Butter,Dairy,50,7,350,2026-06-29,14:19,Card,4.1
+INV-0459,B,Bangalore,Normal,Female,Amul Butter,Dairy,50,6,300,2026-08-14,20:20,UPI,2.3
+INV-0460,A,Delhi,Normal,Female,Gillette Razor,Personal Care,200,3,600,2026-03-12,21:36,Net Banking,2.7
+INV-0461,B,Bangalore,Member,Female,Pepsodent,Personal Care,50,8,400,2026-05-23,18:05,Net Banking,2.7
+INV-0462,B,Bangalore,Normal,Female,Thumbs Up,Beverages,50,1,50,2026-01-03,09:09,UPI,5.0
+INV-0463,B,Bangalore,Normal,Male,Red Label Tea,Beverages,120,5,600,2026-05-13,11:48,Net Banking,5.0
+INV-0464,B,Bangalore,Member,Male,Red Label Tea,Beverages,120,8,960,2026-08-31,18:03,Net Banking,4.5
+INV-0465,C,Mumbai,Normal,Female,Pav,Bakery,30,8,240,2026-02-18,19:05,Cash,5.0
+INV-0466,A,Delhi,Normal,Male,Cookies,Bakery,80,5,400,2026-01-22,13:28,Card,3.6
+INV-0467,C,Mumbai,Normal,Female,Thumbs Up,Beverages,50,4,200,2026-03-03,19:27,Cash,3.3
+INV-0468,B,Bangalore,Member,Male,Britannia Good Day,Snacks,30,5,150,2026-07-04,16:38,UPI,5.0
+INV-0469,B,Bangalore,Member,Male,Fair & Lovely,Personal Care,100,10,1000,2026-04-15,16:26,Cash,2.9
+INV-0470,C,Mumbai,Normal,Male,Colin,Household,80,1,80,2026-05-06,13:13,Net Banking,5.0
+INV-0471,C,Mumbai,Member,Male,Gillette Razor,Personal Care,200,3,600,2026-05-23,21:32,Card,2.5
+INV-0472,C,Mumbai,Normal,Male,Gillette Razor,Personal Care,200,2,400,2026-07-14,10:22,Card,5.0
+INV-0473,C,Mumbai,Normal,Female,Britannia Good Day,Snacks,30,2,60,2026-03-03,15:07,Card,2.5
+INV-0474,A,Delhi,Member,Male,Paneer,Dairy,80,6,480,2026-06-26,13:43,UPI,5.0
+INV-0475,C,Mumbai,Member,Male,Fruit Cake,Bakery,100,9,900,2026-05-02,19:37,Card,4.4
+INV-0476,C,Mumbai,Normal,Female,Lays,Snacks,20,7,140,2026-06-15,16:33,UPI,5.0
+INV-0477,B,Bangalore,Normal,Female,Lays,Snacks,20,10,200,2026-07-02,19:19,Card,2.6
+INV-0478,A,Delhi,Member,Female,Pav,Bakery,30,4,120,2026-05-06,09:14,Card,4.4
+INV-0479,C,Mumbai,Normal,Male,Frooti,Beverages,40,9,360,2026-04-25,15:38,UPI,5.0
+INV-0480,C,Mumbai,Member,Male,Sunsilk Shampoo,Personal Care,150,1,150,2026-07-22,09:00,UPI,4.4
+INV-0481,A,Delhi,Member,Male,Bournvita,Beverages,200,6,1200,2026-01-05,12:19,UPI,4.6
+INV-0482,B,Bangalore,Normal,Male,Gillette Razor,Personal Care,200,9,1800,2026-01-24,12:49,UPI,4.9
+INV-0483,B,Bangalore,Member,Male,Gillette Razor,Personal Care,200,7,1400,2026-03-17,11:48,UPI,4.0
+INV-0484,A,Delhi,Normal,Male,Parle-G,Snacks,20,9,180,2026-02-26,13:18,Cash,4.5
+INV-0485,C,Mumbai,Member,Male,Tata Tea,Beverages,150,8,1200,2026-04-14,14:07,Card,4.3
+INV-0486,A,Delhi,Normal,Male,Thumbs Up,Beverages,50,10,500,2026-06-27,09:31,UPI,5.0
+INV-0487,A,Delhi,Normal,Male,Tata Tea,Beverages,150,4,600,2026-03-04,20:27,Card,2.4
+INV-0488,A,Delhi,Member,Female,Curd,Dairy,40,8,320,2026-03-20,11:08,Net Banking,3.2
+INV-0489,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,8,1200,2026-06-19,15:34,Net Banking,5.0
+INV-0490,C,Mumbai,Normal,Male,Lifebuoy Soap,Personal Care,30,2,60,2026-05-29,20:14,Card,5.0
+INV-0491,C,Mumbai,Member,Male,Harpic,Household,90,7,630,2026-04-05,17:35,UPI,3.8
+INV-0492,A,Delhi,Normal,Male,Lays,Snacks,20,1,20,2026-05-02,19:51,Net Banking,5.0
+INV-0493,B,Bangalore,Normal,Female,Mother Dairy Milk,Dairy,30,9,270,2026-05-22,14:04,UPI,3.3
+INV-0494,B,Bangalore,Member,Female,Colin,Household,80,10,800,2026-05-16,15:55,UPI,2.7
+INV-0495,C,Mumbai,Normal,Female,Harvest Gold Bread,Bakery,40,9,360,2026-03-30,20:02,UPI,3.9
+INV-0496,C,Mumbai,Normal,Female,Amul Cheese,Dairy,150,5,750,2026-04-19,15:01,Cash,3.6
+INV-0497,B,Bangalore,Member,Male,Frooti,Beverages,40,10,400,2026-07-10,16:58,Net Banking,4.5
+INV-0498,B,Bangalore,Normal,Male,Harvest Gold Bread,Bakery,40,3,120,2026-05-21,10:55,UPI,2.4
+INV-0499,C,Mumbai,Member,Male,Amul Cheese,Dairy,150,3,450,2026-03-26,14:36,UPI,5.0
+INV-0500,C,Mumbai,Member,Female,Amul Butter,Dairy,50,8,400,2026-04-01,15:36,Card,5.0
